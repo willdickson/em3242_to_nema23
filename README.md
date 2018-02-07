@@ -6,7 +6,7 @@ The EM3242 sensor should be mounted on the [angle_sensor_em3242](https://github.
 
 ## Image of bracke mounted on NEMA 23 stepper motor.
 
-![bracket_on_motor](images/em3242_to_nema23_image.jpg)
+![bracket_on_motor](images/em3242_to_nema23_image.jpg | width=700)
 
 ## Bottom plate
 
