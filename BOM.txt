@@ -1,0 +1,14 @@
+Description                                     Manufacture PN                 Vendor PN                   Qty
+-----------                                     ---------------                -----------------           ---
+
+Right angle bracket w/ 6-23 threaded holes     Keystone Electronic 4334       Digikey 36-4334-ND           4
+
+6-32 machine srcew, pan head, 1/4" length              NA                     McMaster-Carr 91249A144      8
+
+4-40 machine screw, pan head                           NA                     McMaster-Carr 91249A105      4
+ 
+4-40 heat-set thread inserts                           NA                     McMaster-Carr 93365A120      4
+
+10-32 socket head screw, 5/8" length                   NA                     McMaster-Carr 96006A692      4
+
+
