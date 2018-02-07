@@ -1,6 +1,6 @@
 ## em3245_to_nema23  
 
-Bracket designd for mounting the EM3243 hall effect sensor above the shaft of a
+Bracket designed for mounting the EM3243 hall effect sensor above the shaft of a
 NEMA 23 stepper motor. The parts are designed to be lasercut from 1/8" acrylic.
 The EM3242 sensor should be mounted on the [angle_sensor_em3242](https://github.com/willdickson/angle_sensor_em3242) PCB.
 
